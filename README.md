@@ -1,4 +1,5 @@
-Hi, felix josh!
+Hi, I'm felix Josh!
 web developer
+welcome to my github
 
 
